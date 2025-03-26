@@ -39,9 +39,10 @@
                                 <i class="bi bi-broadcast"></i>
                             </div>
                             <a href="service-details.html" class="stretched-link">
-                                <h3>MICROSOFT</h3>
+                                <h3>Microsoft</h3>
                             </a>
-                            <p>Testez Microsoft dans des environnements hybrides et multicloud</p>
+                            <p> Votre acteur majeur de l'industrie technologique, offrant une large gamme de produits et
+                                de services utilisés par des millions de personnes et d'entreprises à travers le monde.</p>
                         </div>
                     </div>
                 </div><!-- End Service Item -->
@@ -55,7 +56,48 @@
                                 <i class="bi bi-broadcast"></i>
                             </div>
                             <a href="service-details.html" class="stretched-link">
-                                <h3>MICROSOFT</h3>
+                                <h3>Cisco</h3>
+                            </a>
+                            <p>Testez Cisco dans des environnements hybrides et multicloud</p>
+                        </div>
+                    </div>
+                </div><!-- End Service Item -->
+
+            
+
+                <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
+                    <div class="service-item">
+                        <div class="img">
+                            <img src="../welcome/assets/img/services-1.jpg" class="img-fluid" alt="">
+                        </div>
+                        <div class="details position-relative">
+                            <div class="icon">
+                                <i class="bi bi-broadcast"></i>
+                            </div>
+                            <a href="service-details.html" class="stretched-link">
+                                <h3>Nutanix</h3>
+                            </a>
+                            <p>propose une plateforme unifiée qui intègre
+                                parfaitement l'infrastructure et la gestion
+                                pour permettre un fonctionnement fluide
+                                des données et des applications dans les clouds</p>
+                        </div>
+                    </div>
+                </div><!-- End Service Item -->
+
+            
+
+                <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
+                    <div class="service-item">
+                        <div class="img">
+                            <img src="../welcome/assets/img/services-1.jpg" class="img-fluid" alt="">
+                        </div>
+                        <div class="details position-relative">
+                            <div class="icon">
+                                <i class="bi bi-broadcast"></i>
+                            </div>
+                            <a href="service-details.html" class="stretched-link">
+                                <h3>Commvault</h3>
                             </a>
                             <p>Testez Microsoft dans des environnements hybrides et multicloud</p>
                         </div>
@@ -74,7 +116,7 @@
                                 <i class="bi bi-broadcast"></i>
                             </div>
                             <a href="service-details.html" class="stretched-link">
-                                <h3>MICROSOFT</h3>
+                                <h3>Fortinet</h3>
                             </a>
                             <p>Testez Microsoft dans des environnements hybrides et multicloud</p>
                         </div>
@@ -93,7 +135,7 @@
                                 <i class="bi bi-broadcast"></i>
                             </div>
                             <a href="service-details.html" class="stretched-link">
-                                <h3>MICROSOFT</h3>
+                                <h3>Alcatel</h3>
                             </a>
                             <p>Testez Microsoft dans des environnements hybrides et multicloud</p>
                         </div>
@@ -112,7 +154,7 @@
                                 <i class="bi bi-broadcast"></i>
                             </div>
                             <a href="service-details.html" class="stretched-link">
-                                <h3>MICROSOFT</h3>
+                                <h3>Jabra</h3>
                             </a>
                             <p>Testez Microsoft dans des environnements hybrides et multicloud</p>
                         </div>
@@ -131,7 +173,7 @@
                                 <i class="bi bi-broadcast"></i>
                             </div>
                             <a href="service-details.html" class="stretched-link">
-                                <h3>MICROSOFT</h3>
+                                <h3>Veeam</h3>
                             </a>
                             <p>Testez Microsoft dans des environnements hybrides et multicloud</p>
                         </div>
@@ -150,7 +192,7 @@
                                 <i class="bi bi-broadcast"></i>
                             </div>
                             <a href="service-details.html" class="stretched-link">
-                                <h3>MICROSOFT</h3>
+                                <h3>Quantum</h3>
                             </a>
                             <p>Testez Microsoft dans des environnements hybrides et multicloud</p>
                         </div>
@@ -169,45 +211,7 @@
                                 <i class="bi bi-broadcast"></i>
                             </div>
                             <a href="service-details.html" class="stretched-link">
-                                <h3>MICROSOFT</h3>
-                            </a>
-                            <p>Testez Microsoft dans des environnements hybrides et multicloud</p>
-                        </div>
-                    </div>
-                </div><!-- End Service Item -->
-
-            
-
-                <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
-                    <div class="service-item">
-                        <div class="img">
-                            <img src="../welcome/assets/img/services-1.jpg" class="img-fluid" alt="">
-                        </div>
-                        <div class="details position-relative">
-                            <div class="icon">
-                                <i class="bi bi-broadcast"></i>
-                            </div>
-                            <a href="service-details.html" class="stretched-link">
-                                <h3>MICROSOFT</h3>
-                            </a>
-                            <p>Testez Microsoft dans des environnements hybrides et multicloud</p>
-                        </div>
-                    </div>
-                </div><!-- End Service Item -->
-
-            
-
-                <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
-                    <div class="service-item">
-                        <div class="img">
-                            <img src="../welcome/assets/img/services-1.jpg" class="img-fluid" alt="">
-                        </div>
-                        <div class="details position-relative">
-                            <div class="icon">
-                                <i class="bi bi-broadcast"></i>
-                            </div>
-                            <a href="service-details.html" class="stretched-link">
-                                <h3>MICROSOFT</h3>
+                                <h3>Golmar</h3>
                             </a>
                             <p>Testez Microsoft dans des environnements hybrides et multicloud</p>
                         </div>
