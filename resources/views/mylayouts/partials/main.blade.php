@@ -144,7 +144,7 @@
 
             
 
-                <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
+                <!-- <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="200">
                     <div class="service-item">
                         <div class="img">
                             <img src="../welcome/assets/img/services-1.jpg" class="img-fluid" alt="">
@@ -159,7 +159,8 @@
                             <p>Testez Microsoft dans des environnements hybrides et multicloud</p>
                         </div>
                     </div>
-                </div><!-- End Service Item -->
+                </div> -->
+                <!-- End Service Item -->
 
             
 
